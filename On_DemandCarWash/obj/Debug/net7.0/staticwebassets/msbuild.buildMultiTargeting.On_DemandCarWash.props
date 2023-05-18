@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\On_DemandCarWash.props" />
+</Project>
